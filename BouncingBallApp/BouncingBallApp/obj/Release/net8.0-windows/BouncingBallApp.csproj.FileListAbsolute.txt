@@ -1,0 +1,17 @@
+C:\Users\mathi\source\repos\BouncingBallApp\BouncingBallApp\bin\Release\net8.0-windows\BouncingBallApp.exe
+C:\Users\mathi\source\repos\BouncingBallApp\BouncingBallApp\bin\Release\net8.0-windows\Ball.png
+C:\Users\mathi\source\repos\BouncingBallApp\BouncingBallApp\bin\Release\net8.0-windows\BouncingBallApp.deps.json
+C:\Users\mathi\source\repos\BouncingBallApp\BouncingBallApp\bin\Release\net8.0-windows\BouncingBallApp.runtimeconfig.json
+C:\Users\mathi\source\repos\BouncingBallApp\BouncingBallApp\bin\Release\net8.0-windows\BouncingBallApp.dll
+C:\Users\mathi\source\repos\BouncingBallApp\BouncingBallApp\bin\Release\net8.0-windows\BouncingBallApp.pdb
+C:\Users\mathi\source\repos\BouncingBallApp\BouncingBallApp\obj\Release\net8.0-windows\BouncingBallApp.Form1.resources
+C:\Users\mathi\source\repos\BouncingBallApp\BouncingBallApp\obj\Release\net8.0-windows\BouncingBallApp.csproj.GenerateResource.cache
+C:\Users\mathi\source\repos\BouncingBallApp\BouncingBallApp\obj\Release\net8.0-windows\BouncingBallApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\source\repos\BouncingBallApp\BouncingBallApp\obj\Release\net8.0-windows\BouncingBallApp.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\BouncingBallApp\BouncingBallApp\obj\Release\net8.0-windows\BouncingBallApp.AssemblyInfo.cs
+C:\Users\mathi\source\repos\BouncingBallApp\BouncingBallApp\obj\Release\net8.0-windows\BouncingBallApp.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\BouncingBallApp\BouncingBallApp\obj\Release\net8.0-windows\BouncingBallApp.dll
+C:\Users\mathi\source\repos\BouncingBallApp\BouncingBallApp\obj\Release\net8.0-windows\refint\BouncingBallApp.dll
+C:\Users\mathi\source\repos\BouncingBallApp\BouncingBallApp\obj\Release\net8.0-windows\BouncingBallApp.pdb
+C:\Users\mathi\source\repos\BouncingBallApp\BouncingBallApp\obj\Release\net8.0-windows\BouncingBallApp.genruntimeconfig.cache
+C:\Users\mathi\source\repos\BouncingBallApp\BouncingBallApp\obj\Release\net8.0-windows\ref\BouncingBallApp.dll

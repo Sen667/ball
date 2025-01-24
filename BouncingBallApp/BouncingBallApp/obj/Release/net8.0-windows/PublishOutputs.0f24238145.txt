@@ -1,0 +1,6 @@
+C:\Users\mathi\source\repos\BouncingBallApp\BouncingBallApp\bin\Release\net8.0-windows\publish\Ball.png
+C:\Users\mathi\source\repos\BouncingBallApp\BouncingBallApp\bin\Release\net8.0-windows\publish\BouncingBallApp.exe
+C:\Users\mathi\source\repos\BouncingBallApp\BouncingBallApp\bin\Release\net8.0-windows\publish\BouncingBallApp.dll
+C:\Users\mathi\source\repos\BouncingBallApp\BouncingBallApp\bin\Release\net8.0-windows\publish\BouncingBallApp.deps.json
+C:\Users\mathi\source\repos\BouncingBallApp\BouncingBallApp\bin\Release\net8.0-windows\publish\BouncingBallApp.runtimeconfig.json
+C:\Users\mathi\source\repos\BouncingBallApp\BouncingBallApp\bin\Release\net8.0-windows\publish\BouncingBallApp.pdb
